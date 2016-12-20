@@ -1,1 +1,1 @@
-# PiGate
+# PiGate gate
